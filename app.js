@@ -357,7 +357,6 @@ document.addEventListener('DOMContentLoaded', () => {
       .from("#hero-brand-badge", { y: -20, autoAlpha: 0, scale: 0.9, duration: 0.6 })
       .from("#hero-headline", { y: 24, autoAlpha: 0, duration: 0.65 }, "-=0.35")
       .from("#hero-subhead", { y: 16, autoAlpha: 0, duration: 0.5 }, "-=0.35")
-      .from("#hero-cta-group .btn-action", { y: 14, autoAlpha: 0, stagger: 0.08, duration: 0.4 }, "-=0.3")
       .from("#hero-micro-hud", { y: 18, autoAlpha: 0, duration: 0.5 }, "-=0.2");
 
     // E. ScrollTrigger batch reveals on sections
