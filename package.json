@@ -1,0 +1,20 @@
+{
+  "name": "gambit-portfolio",
+  "version": "1.0.0",
+  "description": "Gambit — Freelance Video Editor & Motion Designer Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "gambit",
+    "portfolio",
+    "video-editor",
+    "motion-graphics",
+    "color-grading",
+    "documentary-editor"
+  ],
+  "author": "Gambit",
+  "license": "ISC"
+}
